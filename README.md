@@ -26,4 +26,4 @@ Visit [Clock](https://clock.tanmoyganguly.in/)
 
 ## License
 
-The Restaurant Billing Software project is licensed under the [ GNU GENERAL PUBLIC LICENSE](LICENSE).
+The Web Clock project is licensed under the [ GNU GENERAL PUBLIC LICENSE](LICENSE).
